@@ -3,12 +3,12 @@ body {
     background-image: linear-gradient(rgba(137, 140, 153, 0.7), rgba(4, 9, 30, 0.7)), url('background.jpg');
     background-size: cover;
     background-position: center;
-    background-repeat: no-repeat;
+    background-repeat:repeat;
     height: 100vh;
 }
 
 .container {
-    max-width: 100px; 
+    max-width: 500px; 
     width: 100%;
     margin: auto;
     padding: 100px;
